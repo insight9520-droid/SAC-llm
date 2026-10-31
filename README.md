@@ -7,7 +7,7 @@ SAC-llm은 안전성(Safety), 지원(Assistance), 편의성(Convenience)을 목�
 
 ### SAC-llm Agent
 
-- **배포 버전:** v1.0.0
+- **배포 버전:** v8.0.4
 - **플랫폼:** Microsoft Windows
 - **아키텍처:** x64
 - **배포 형식:** ZIP
